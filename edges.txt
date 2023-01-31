@@ -1,0 +1,51 @@
+Jarosław Drapała, Krzysztof Brzostowski, 21
+Jarosław Drapała, Janusz Sobecki, 2
+Jarosław Drapała, Jerzy Świątek, 16
+Janusz Sobecki, Jarosław Drapała, 2
+Janusz Sobecki, Krzysztof Brzostowski, 2
+Janusz Sobecki, Ngoc Thanh Nguyen, 17
+Maciej Zięba, Krzysztof Brzostowski, 4
+Maciej Zięba, Jerzy Świątek, 10
+Donat Orski, Jerzy Józefczyk, 6
+Donat Orski, Maciej Hojda, 3
+Donat Orski, Dariusz Gąsior, 4
+Donat Orski, Grzegorz Filcek, 1
+Krzysztof Brzostowski, Maciej Zięba, 4
+Krzysztof Brzostowski, Jerzy Świątek, 20
+Krzysztof Brzostowski, Dariusz Gąsior, 2
+Jerzy Józefczyk, Donat Orski, 6
+Jerzy Józefczyk, Maciej Hojda, 9
+Jerzy Józefczyk, Dariusz Gąsior, 8
+Jerzy Józefczyk, Grzegorz Filcek, 9
+Jerzy Józefczyk, Radosław Katarzyniak, 2
+Maciej Hojda, Donat Orski, 3
+Maciej Hojda, Jerzy Józefczyk, 9
+Maciej Hojda, Dariusz Gąsior, 4
+Maciej Hojda, Grzegorz Filcek, 11
+Maciej Hojda, Grzegorz Popek, 2
+Jerzy Świątek, Jarosław Drapała, 16
+Jerzy Świątek, Maciej Zięba, 10
+Jerzy Świątek, Krzysztof Brzostowski, 20
+Jerzy Świątek, Ngoc Thanh Nguyen, 4
+Ngoc Thanh Nguyen, Janusz Sobecki, 17
+Ngoc Thanh Nguyen, Jerzy Świątek, 4
+Ngoc Thanh Nguyen, Radosław Katarzyniak, 23
+Dariusz Gąsior, Donat Orski, 4
+Dariusz Gąsior, Krzysztof Brzostowski, 2
+Dariusz Gąsior, Jerzy Józefczyk, 8
+Dariusz Gąsior, Maciej Hojda, 4
+Dariusz Gąsior, Grzegorz Filcek, 5
+Grzegorz Filcek, Maciej Hojda, 11
+Grzegorz Filcek, Dariusz Gąsior, 5
+Grzegorz Filcek, Jerzy Józefczyk, 9
+Grzegorz Filcek, Donat Orski, 1
+Grzegorz Filcek, Grzegorz Popek, 1
+Grzegorz Popek, Grzegorz Filcek, 1
+Grzegorz Popek, Maciej Hojda, 2
+Grzegorz Popek, Radosław Katarzyniak, 10
+Radosław Katarzyniak, Jerzy Józefczyk, 2
+Radosław Katarzyniak, Ngoc Thanh Nguyen, 23
+
+
+
+
